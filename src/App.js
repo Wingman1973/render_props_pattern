@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from "react";
 import Amount from "./Amount";
 
 const App = () => <Amount />;
